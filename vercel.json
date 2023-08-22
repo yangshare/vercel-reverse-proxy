@@ -1,6 +1,6 @@
 {
     "version": 2,
     "routes": [
-      {"src": "/(.*)","dest": "http://ipv6.yangshare.com"}
+      {"src": "/(.*)","dest": "http://www.yangshare.com"}
     ]
 }
