@@ -1,6 +1,6 @@
 {
     "version": 2,
     "routes": [
-      {"src": "/(.*)","dest": "http://jmovies.yangshare.com"}
+      {"src": "/(.*)","dest": "https://jmovies.tocmcc.cn"}
     ]
 }
