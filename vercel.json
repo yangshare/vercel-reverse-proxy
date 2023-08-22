@@ -1,6 +1,6 @@
 {
     "version": 2,
     "routes": [
-      {"src": "/(.*)","dest": "https://nas.wangboweb.site:9201"}
+      {"src": "/(.*)","dest": "http://jmovies.yangshare.com"}
     ]
 }
